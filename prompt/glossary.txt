@@ -1,0 +1,15 @@
+# 术语对照表（Tabibito_jisho 语境）
+# 纯文本，供 grep 与提示词注入。与 prompt/README.md 术语表同步维护。
+
+Tabibito Jisho :: 旅人辞典，本插件总称，/jisho 命令打开 :: AGENTS.md
+SM-2 :: SuperMemo 2 间隔重复算法，用于闪卡复习调度 :: prompt/review.md
+闪卡 :: flashcard，正面显示问题/假名，背面显示答案/读音的复习卡片 :: prompt/review.md
+两段揭示 :: 闪卡翻转交互：正面→点击→读音→点击→自评按钮 :: prompt/review.md
+听音辨字 :: 听音频从 4 个选项中选正确假名的复习模式 :: prompt/review.md
+认读 :: 看假名想读音的复习模式（默认模式）:: prompt/review.md
+词典标签页 :: /jisho 面板的第三个标签，浏览/搜索/筛选 504 个精选日语单词 :: prompt/word-dict.md
+按需加载 :: lazy init，首次调用 GetData() 时才构建数据表，不拖慢 ADDON_LOADED :: prompt/word-dict.md
+word-gen.js :: tools/ 下的开发期脚本，读 word-source.json 生成 words.lua + TTS manifest :: tools/word-gen.js
+kana-gen.js :: tools/ 下的开发期脚本，从 kana.lua 读音节清单生成假名音频 :: tools/kana-gen.js
+TJ_LangDB :: 本插件唯一的 SavedVariable，词典/复习/手账共用 :: Tabibito_jisho.toc
+TJ_ :: 本插件命名空间前缀，替代原 BGLAO_Lang* :: docs/SPEC.md
