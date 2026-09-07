@@ -1,0 +1,23 @@
+## Interface: 11508, 11509, 20506, 30405, 38002, 40402, 50503, 50504, 50505, 120005, 120007, 120100
+## Title: Tabibito Jisho |cff00BFFF旅人辞典|r
+## Notes: 冒险家手账与日语学习（五十音、闪卡、术语词典）
+## Author: Enderiose
+## Version: 0.0.1
+## SavedVariables: TJ_LangDB
+
+modules\lang\locale.lua
+locales\zhCN.lua
+locales\enUS.lua
+locales\zhTW.lua
+modules\lang\widgets.lua
+modules\lang\kana.lua
+modules\lang\words.lua
+modules\lang\store.lua
+modules\lang\review.lua
+modules\lang\wordreview.lua
+modules\lang\ui_review.lua
+modules\lang\ui_wordreview.lua
+modules\lang\ui_dict.lua
+modules\lang\ui_kana.lua
+modules\lang\lang.lua
+core\journal.lua

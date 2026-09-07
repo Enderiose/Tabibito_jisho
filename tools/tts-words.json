@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "alchemy",
+    "text": "れんきんじゅつ",
+    "out": "Media/sound/words/alchemy.mp3"
+  },
+  {
+    "id": "area-of-effect",
+    "text": "はんいこうげき",
+    "out": "Media/sound/words/area-of-effect.mp3"
+  },
+  {
+    "id": "arena",
+    "text": "きょうぎじょう",
+    "out": "Media/sound/words/arena.mp3"
+  },
+  {
+    "id": "argent-dawn",
+    "text": "ぎんいろれいめい",
+    "out": "Media/sound/words/argent-dawn.mp3"
+  },
+  {
+    "id": "auction-house",
+    "text": "ばいあうぎょう",
+    "out": "Media/sound/words/auction-house.mp3"
+  },
+  {
+    "id": "battleground",
+    "text": "せんじょう",
+    "out": "Media/sound/words/battleground.mp3"
+  },
+  {
+    "id": "blacksmithing",
+    "text": "たんぞう",
+    "out": "Media/sound/words/blacksmithing.mp3"
+  },
+  {
+    "id": "buff",
+    "text": "ぞうえいこうか",
+    "out": "Media/sound/words/buff.mp3"
+  },
+  {
+    "id": "cenarion-circle",
+    "text": "せなりおぎかい",
+    "out": "Media/sound/words/cenarion-circle.mp3"
+  },
+  {
+    "id": "chi",
+    "text": "しんき",
+    "out": "Media/sound/words/chi.mp3"
+  },
+  {
+    "id": "cloud-serpent",
+    "text": "うんたんしょうりゅう",
+    "out": "Media/sound/words/cloud-serpent.mp3"
+  },
+  {
+    "id": "conquest-points",
+    "text": "せいふくてんすう",
+    "out": "Media/sound/words/conquest-points.mp3"
+  },
+  {
+    "id": "cooking",
+    "text": "ほうろう",
+    "out": "Media/sound/words/cooking.mp3"
+  },
+  {
+    "id": "copper",
+    "text": "どうか",
+    "out": "Media/sound/words/copper.mp3"
+  },
+  {
+    "id": "damage-dealer",
+    "text": "しゅつりょく",
+    "out": "Media/sound/words/damage-dealer.mp3"
+  },
+  {
+    "id": "death-knight",
+    "text": "しぼうきし",
+    "out": "Media/sound/words/death-knight.mp3"
+  },
+  {
+    "id": "debuff",
+    "text": "げんえいこうか",
+    "out": "Media/sound/words/debuff.mp3"
+  },
+  {
+    "id": "dps",
+    "text": "びょうしょう",
+    "out": "Media/sound/words/dps.mp3"
+  },
+  {
+    "id": "druid",
+    "text": "どるいう",
+    "out": "Media/sound/words/druid.mp3"
+  },
+  {
+    "id": "dungeon",
+    "text": "ちかじょう",
+    "out": "Media/sound/words/dungeon.mp3"
+  },
+  {
+    "id": "enchanting",
+    "text": "ふま",
+    "out": "Media/sound/words/enchanting.mp3"
+  },
+  {
+    "id": "energy",
+    "text": "のうりょう",
+    "out": "Media/sound/words/energy.mp3"
+  },
+  {
+    "id": "engineering",
+    "text": "こうがく",
+    "out": "Media/sound/words/engineering.mp3"
+  },
+  {
+    "id": "first-aid",
+    "text": "きゅうきゅう",
+    "out": "Media/sound/words/first-aid.mp3"
+  },
+  {
+    "id": "fishing",
+    "text": "つり",
+    "out": "Media/sound/words/fishing.mp3"
+  },
+  {
+    "id": "gold",
+    "text": "きんか",
+    "out": "Media/sound/words/gold.mp3"
+  },
+  {
+    "id": "greed",
+    "text": "どんよく",
+    "out": "Media/sound/words/greed.mp3"
+  },
+  {
+    "id": "guild",
+    "text": "こうかい",
+    "out": "Media/sound/words/guild.mp3"
+  },
+  {
+    "id": "healer",
+    "text": "ちりょう",
+    "out": "Media/sound/words/healer.mp3"
+  },
+  {
+    "id": "herbalism",
+    "text": "さいやく",
+    "out": "Media/sound/words/herbalism.mp3"
+  },
+  {
+    "id": "honor",
+    "text": "めいよ",
+    "out": "Media/sound/words/honor.mp3"
+  },
+  {
+    "id": "hunter",
+    "text": "りょうしゅ",
+    "out": "Media/sound/words/hunter.mp3"
+  },
+  {
+    "id": "inscription",
+    "text": "めいぶん",
+    "out": "Media/sound/words/inscription.mp3"
+  },
+  {
+    "id": "jewelcrafting",
+    "text": "しゅぼうかこう",
+    "out": "Media/sound/words/jewelcrafting.mp3"
+  },
+  {
+    "id": "justice-points",
+    "text": "せいぎてんすう",
+    "out": "Media/sound/words/justice-points.mp3"
+  },
+  {
+    "id": "klaxxi",
+    "text": "からくし",
+    "out": "Media/sound/words/klaxxi.mp3"
+  },
+  {
+    "id": "leatherworking",
+    "text": "せいひ",
+    "out": "Media/sound/words/leatherworking.mp3"
+  },
+  {
+    "id": "loot",
+    "text": "しゅしゅ",
+    "out": "Media/sound/words/loot.mp3"
+  },
+  {
+    "id": "lorewalker",
+    "text": "ゆうがくしゃ",
+    "out": "Media/sound/words/lorewalker.mp3"
+  },
+  {
+    "id": "mage",
+    "text": "ほうし",
+    "out": "Media/sound/words/mage.mp3"
+  },
+  {
+    "id": "mana",
+    "text": "ほうりょく",
+    "out": "Media/sound/words/mana.mp3"
+  },
+  {
+    "id": "mining",
+    "text": "さいこう",
+    "out": "Media/sound/words/mining.mp3"
+  },
+  {
+    "id": "monk",
+    "text": "ぶそう",
+    "out": "Media/sound/words/monk.mp3"
+  },
+  {
+    "id": "need",
+    "text": "じゅよう",
+    "out": "Media/sound/words/need.mp3"
+  },
+  {
+    "id": "order-of-the-cloud-serpent",
+    "text": "うんたんしょうりゅうきしだん",
+    "out": "Media/sound/words/order-of-the-cloud-serpent.mp3"
+  },
+  {
+    "id": "paladin",
+    "text": "せいきし",
+    "out": "Media/sound/words/paladin.mp3"
+  },
+  {
+    "id": "priest",
+    "text": "ぼくし",
+    "out": "Media/sound/words/priest.mp3"
+  },
+  {
+    "id": "pull",
+    "text": "ひっかい",
+    "out": "Media/sound/words/pull.mp3"
+  },
+  {
+    "id": "rage",
+    "text": "どき",
+    "out": "Media/sound/words/rage.mp3"
+  },
+  {
+    "id": "raid",
+    "text": "だんたいふくべん",
+    "out": "Media/sound/words/raid.mp3"
+  },
+  {
+    "id": "resurrect",
+    "text": "ふっかつ",
+    "out": "Media/sound/words/resurrect.mp3"
+  },
+  {
+    "id": "rogue",
+    "text": "とうぞく",
+    "out": "Media/sound/words/rogue.mp3"
+  },
+  {
+    "id": "runic-power",
+    "text": "ふのうのうりょう",
+    "out": "Media/sound/words/runic-power.mp3"
+  },
+  {
+    "id": "shado-pan",
+    "text": "えいぞうは",
+    "out": "Media/sound/words/shado-pan.mp3"
+  },
+  {
+    "id": "shaman",
+    "text": "さまんさいし",
+    "out": "Media/sound/words/shaman.mp3"
+  },
+  {
+    "id": "shatar",
+    "text": "しゃたーる",
+    "out": "Media/sound/words/shatar.mp3"
+  },
+  {
+    "id": "silver",
+    "text": "ぎんか",
+    "out": "Media/sound/words/silver.mp3"
+  },
+  {
+    "id": "silverpine-forest",
+    "text": "ぎんしょうしんりん",
+    "out": "Media/sound/words/silverpine-forest.mp3"
+  },
+  {
+    "id": "skinning",
+    "text": "はっぴ",
+    "out": "Media/sound/words/skinning.mp3"
+  },
+  {
+    "id": "tailoring",
+    "text": "さいほう",
+    "out": "Media/sound/words/tailoring.mp3"
+  },
+  {
+    "id": "tank",
+    "text": "たんく",
+    "out": "Media/sound/words/tank.mp3"
+  },
+  {
+    "id": "threat",
+    "text": "こうそ",
+    "out": "Media/sound/words/threat.mp3"
+  },
+  {
+    "id": "threat-list",
+    "text": "こうそりすと",
+    "out": "Media/sound/words/threat-list.mp3"
+  },
+  {
+    "id": "valiance-expedition",
+    "text": "むいえんせいぐん",
+    "out": "Media/sound/words/valiance-expedition.mp3"
+  },
+  {
+    "id": "valor-points",
+    "text": "ゆうきてんすう",
+    "out": "Media/sound/words/valor-points.mp3"
+  },
+  {
+    "id": "warlock",
+    "text": "じゅつし",
+    "out": "Media/sound/words/warlock.mp3"
+  },
+  {
+    "id": "warrior",
+    "text": "せんし",
+    "out": "Media/sound/words/warrior.mp3"
+  },
+  {
+    "id": "adamantite-ore",
+    "text": "あだまんたいてこうせき",
+    "out": "Media/sound/words/adamantite-ore.mp3"
+  },
+  {
+    "id": "amethyst",
+    "text": "あめじすと",
+    "out": "Media/sound/words/amethyst.mp3"
+  },
+  {
+    "id": "ammo",
+    "text": "だんやく",
+    "out": "Media/sound/words/ammo.mp3"
+  },
+  {
+    "id": "antidote",
+    "text": "げどくざい",
+    "out": "Media/sound/words/antidote.mp3"
+  },
+  {
+    "id": "armor",
+    "text": "よろい",
+    "out": "Media/sound/words/armor.mp3"
+  },
+  {
+    "id": "axe",
+    "text": "おの",
+    "out": "Media/sound/words/axe.mp3"
+  },
+  {
+    "id": "bandage",
+    "text": "ほうたい",
+    "out": "Media/sound/words/bandage.mp3"
+  },
+  {
+    "id": "bar",
+    "text": "こうてい",
+    "out": "Media/sound/words/bar.mp3"
+  },
+  {
+    "id": "belt",
+    "text": "おび",
+    "out": "Media/sound/words/belt.mp3"
+  },
+  {
+    "id": "black-lotus",
+    "text": "くろれんげ",
+    "out": "Media/sound/words/black-lotus.mp3"
+  },
+  {
+    "id": "boots",
+    "text": "くつ",
+    "out": "Media/sound/words/boots.mp3"
+  },
+  {
+    "id": "bow",
+    "text": "ゆみ",
+    "out": "Media/sound/words/bow.mp3"
+  },
+  {
+    "id": "bread",
+    "text": "ぱん",
+    "out": "Media/sound/words/bread.mp3"
+  },
+  {
+    "id": "chest",
+    "text": "きょうぶ",
+    "out": "Media/sound/words/chest.mp3"
+  },
+  {
+    "id": "cloak",
+    "text": "まんと",
+    "out": "Media/sound/words/cloak.mp3"
+  },
+  {
+    "id": "cloth-armor",
+    "text": "ぬのよろい",
+    "out": "Media/sound/words/cloth-armor.mp3"
+  },
+  {
+    "id": "cobalt-ore",
+    "text": "こばるとこうせき",
+    "out": "Media/sound/words/cobalt-ore.mp3"
+  },
+  {
+    "id": "cooking-ingredient",
+    "text": "ちょうりざいりょう",
+    "out": "Media/sound/words/cooking-ingredient.mp3"
+  },
+  {
+    "id": "copper-ore",
+    "text": "どうこうせき",
+    "out": "Media/sound/words/copper-ore.mp3"
+  },
+  {
+    "id": "crossbow",
+    "text": "いしゆみ",
+    "out": "Media/sound/words/crossbow.mp3"
+  },
+  {
+    "id": "crown",
+    "text": "おうかん",
+    "out": "Media/sound/words/crown.mp3"
+  },
+  {
+    "id": "dagger",
+    "text": "たんけん",
+    "out": "Media/sound/words/dagger.mp3"
+  },
+  {
+    "id": "diamond",
+    "text": "だいあ",
+    "out": "Media/sound/words/diamond.mp3"
+  },
+  {
+    "id": "dream-dust",
+    "text": "ゆめのちり",
+    "out": "Media/sound/words/dream-dust.mp3"
+  },
+  {
+    "id": "dreamfoil",
+    "text": "ゆめばそう",
+    "out": "Media/sound/words/dreamfoil.mp3"
+  },
+  {
+    "id": "earthroot",
+    "text": "じねそう",
+    "out": "Media/sound/words/earthroot.mp3"
+  },
+  {
+    "id": "elixir",
+    "text": "やくざい",
+    "out": "Media/sound/words/elixir.mp3"
+  },
+  {
+    "id": "emerald",
+    "text": "ひすい",
+    "out": "Media/sound/words/emerald.mp3"
+  },
+  {
+    "id": "eternal-air",
+    "text": "えいこうくうき",
+    "out": "Media/sound/words/eternal-air.mp3"
+  },
+  {
+    "id": "eternal-earth",
+    "text": "えいこうだいち",
+    "out": "Media/sound/words/eternal-earth.mp3"
+  },
+  {
+    "id": "eternal-fire",
+    "text": "えいこうかえん",
+    "out": "Media/sound/words/eternal-fire.mp3"
+  },
+  {
+    "id": "eternal-life",
+    "text": "えいこうせいめい",
+    "out": "Media/sound/words/eternal-life.mp3"
+  },
+  {
+    "id": "eternal-shadow",
+    "text": "えいこうかげ",
+    "out": "Media/sound/words/eternal-shadow.mp3"
+  },
+  {
+    "id": "eternal-water",
+    "text": "えいこうのみず",
+    "out": "Media/sound/words/eternal-water.mp3"
+  },
+  {
+    "id": "feast",
+    "text": "ごちそう",
+    "out": "Media/sound/words/feast.mp3"
+  },
+  {
+    "id": "feet",
+    "text": "きゃくぶ",
+    "out": "Media/sound/words/feet.mp3"
+  },
+  {
+    "id": "fel-iron-ore",
+    "text": "まてつこうせき",
+    "out": "Media/sound/words/fel-iron-ore.mp3"
+  },
+  {
+    "id": "fish",
+    "text": "さかな",
+    "out": "Media/sound/words/fish.mp3"
+  },
+  {
+    "id": "fist-weapon",
+    "text": "しゅけん",
+    "out": "Media/sound/words/fist-weapon.mp3"
+  },
+  {
+    "id": "flask",
+    "text": "ふらすこ",
+    "out": "Media/sound/words/flask.mp3"
+  },
+  {
+    "id": "food",
+    "text": "たべもの",
+    "out": "Media/sound/words/food.mp3"
+  },
+  {
+    "id": "fools-cap",
+    "text": "おろかものぼう",
+    "out": "Media/sound/words/fools-cap.mp3"
+  },
+  {
+    "id": "frostweave-cloth",
+    "text": "そうもんぬの",
+    "out": "Media/sound/words/frostweave-cloth.mp3"
+  },
+  {
+    "id": "gem",
+    "text": "ほうせき",
+    "out": "Media/sound/words/gem.mp3"
+  },
+  {
+    "id": "ghost-iron-ore",
+    "text": "ごーすとあいあんこうせき",
+    "out": "Media/sound/words/ghost-iron-ore.mp3"
+  },
+  {
+    "id": "ghost-mushroom",
+    "text": "ゆうれいたけ",
+    "out": "Media/sound/words/ghost-mushroom.mp3"
+  },
+  {
+    "id": "gloves",
+    "text": "てぶくろ",
+    "out": "Media/sound/words/gloves.mp3"
+  },
+  {
+    "id": "gold-ore",
+    "text": "きんこうせき",
+    "out": "Media/sound/words/gold-ore.mp3"
+  },
+  {
+    "id": "golden-lotus",
+    "text": "きんれんげ",
+    "out": "Media/sound/words/golden-lotus.mp3"
+  },
+  {
+    "id": "goldthorn",
+    "text": "おうしんそう",
+    "out": "Media/sound/words/goldthorn.mp3"
+  },
+  {
+    "id": "green-tea-leaf",
+    "text": "りょくちゃのは",
+    "out": "Media/sound/words/green-tea-leaf.mp3"
+  },
+  {
+    "id": "gromsblood",
+    "text": "ぐろむのち",
+    "out": "Media/sound/words/gromsblood.mp3"
+  },
+  {
+    "id": "gun",
+    "text": "じゅう",
+    "out": "Media/sound/words/gun.mp3"
+  },
+  {
+    "id": "hands",
+    "text": "しゅぶ",
+    "out": "Media/sound/words/hands.mp3"
+  },
+  {
+    "id": "head",
+    "text": "とうぶ",
+    "out": "Media/sound/words/head.mp3"
+  },
+  {
+    "id": "healing-potion",
+    "text": "ちりょうようすい",
+    "out": "Media/sound/words/healing-potion.mp3"
+  },
+  {
+    "id": "healing-poultice",
+    "text": "ちりょうやこう",
+    "out": "Media/sound/words/healing-poultice.mp3"
+  },
+  {
+    "id": "heavenly-shard",
+    "text": "てんごくのかけら",
+    "out": "Media/sound/words/heavenly-shard.mp3"
+  },
+  {
+    "id": "heavy-leather",
+    "text": "じゅうひ",
+    "out": "Media/sound/words/heavy-leather.mp3"
+  },
+  {
+    "id": "helm",
+    "text": "かぶと",
+    "out": "Media/sound/words/helm.mp3"
+  },
+  {
+    "id": "herb",
+    "text": "やくそう",
+    "out": "Media/sound/words/herb.mp3"
+  },
+  {
+    "id": "icecap",
+    "text": "こおりかぶ",
+    "out": "Media/sound/words/icecap.mp3"
+  },
+  {
+    "id": "idol",
+    "text": "しんぞう",
+    "out": "Media/sound/words/idol.mp3"
+  },
+  {
+    "id": "illusion-dust",
+    "text": "まぼろしのちり",
+    "out": "Media/sound/words/illusion-dust.mp3"
+  },
+  {
+    "id": "invisibility-potion",
+    "text": "おんけいようすい",
+    "out": "Media/sound/words/invisibility-potion.mp3"
+  },
+  {
+    "id": "iron-ore",
+    "text": "てつこうせき",
+    "out": "Media/sound/words/iron-ore.mp3"
+  },
+  {
+    "id": "jade",
+    "text": "ぎょく",
+    "out": "Media/sound/words/jade.mp3"
+  },
+  {
+    "id": "khorium-ore",
+    "text": "こりうむこうせき",
+    "out": "Media/sound/words/khorium-ore.mp3"
+  },
+  {
+    "id": "kingsblood",
+    "text": "おうちそう",
+    "out": "Media/sound/words/kingsblood.mp3"
+  },
+  {
+    "id": "knothide-leather",
+    "text": "のっとひでれざー",
+    "out": "Media/sound/words/knothide-leather.mp3"
+  },
+  {
+    "id": "kyparite",
+    "text": "きぱらいと",
+    "out": "Media/sound/words/kyparite.mp3"
+  },
+  {
+    "id": "leather-armor",
+    "text": "かわよろい",
+    "out": "Media/sound/words/leather-armor.mp3"
+  },
+  {
+    "id": "leggings",
+    "text": "すねあて",
+    "out": "Media/sound/words/leggings.mp3"
+  },
+  {
+    "id": "legs",
+    "text": "たいぶ",
+    "out": "Media/sound/words/legs.mp3"
+  },
+  {
+    "id": "libram",
+    "text": "せいてん",
+    "out": "Media/sound/words/libram.mp3"
+  },
+  {
+    "id": "light-leather",
+    "text": "かるいかわ",
+    "out": "Media/sound/words/light-leather.mp3"
+  },
+  {
+    "id": "linen-cloth",
+    "text": "あまぬの",
+    "out": "Media/sound/words/linen-cloth.mp3"
+  },
+  {
+    "id": "mace",
+    "text": "めいす",
+    "out": "Media/sound/words/mace.mp3"
+  },
+  {
+    "id": "mageroyal",
+    "text": "まーじろいやる",
+    "out": "Media/sound/words/mageroyal.mp3"
+  },
+  {
+    "id": "mageweave-cloth",
+    "text": "まもんぬの",
+    "out": "Media/sound/words/mageweave-cloth.mp3"
+  },
+  {
+    "id": "mail-armor",
+    "text": "くさりよろい",
+    "out": "Media/sound/words/mail-armor.mp3"
+  },
+  {
+    "id": "main-hand",
+    "text": "めいんはんど",
+    "out": "Media/sound/words/main-hand.mp3"
+  },
+  {
+    "id": "mana-potion",
+    "text": "ほうりょくようすい",
+    "out": "Media/sound/words/mana-potion.mp3"
+  },
+  {
+    "id": "meat",
+    "text": "にく",
+    "out": "Media/sound/words/meat.mp3"
+  },
+  {
+    "id": "medium-leather",
+    "text": "みでぃあむれざー",
+    "out": "Media/sound/words/medium-leather.mp3"
+  },
+  {
+    "id": "mithril-ore",
+    "text": "みすりるこうせき",
+    "out": "Media/sound/words/mithril-ore.mp3"
+  },
+  {
+    "id": "mountain-silversage",
+    "text": "やまねずみそう",
+    "out": "Media/sound/words/mountain-silversage.mp3"
+  },
+  {
+    "id": "neck",
+    "text": "くびかざり",
+    "out": "Media/sound/words/neck.mp3"
+  },
+  {
+    "id": "netherweave-cloth",
+    "text": "ねざーうぃーぶ",
+    "out": "Media/sound/words/netherweave-cloth.mp3"
+  },
+  {
+    "id": "off-hand",
+    "text": "ふくしゅ",
+    "out": "Media/sound/words/off-hand.mp3"
+  },
+  {
+    "id": "one-handed-axe",
+    "text": "かたておの",
+    "out": "Media/sound/words/one-handed-axe.mp3"
+  },
+  {
+    "id": "one-handed-mace",
+    "text": "かたてめいす",
+    "out": "Media/sound/words/one-handed-mace.mp3"
+  },
+  {
+    "id": "one-handed-sword",
+    "text": "かたてけん",
+    "out": "Media/sound/words/one-handed-sword.mp3"
+  },
+  {
+    "id": "ore",
+    "text": "こうせき",
+    "out": "Media/sound/words/ore.mp3"
+  },
+  {
+    "id": "pauldrons",
+    "text": "かたあて",
+    "out": "Media/sound/words/pauldrons.mp3"
+  },
+  {
+    "id": "peacebloom",
+    "text": "ぴーすぶるーむ",
+    "out": "Media/sound/words/peacebloom.mp3"
+  },
+  {
+    "id": "pearl",
+    "text": "しんじゅ",
+    "out": "Media/sound/words/pearl.mp3"
+  },
+  {
+    "id": "plate-armor",
+    "text": "いたよろい",
+    "out": "Media/sound/words/plate-armor.mp3"
+  },
+  {
+    "id": "polearm",
+    "text": "ながえぶき",
+    "out": "Media/sound/words/polearm.mp3"
+  },
+  {
+    "id": "potion",
+    "text": "くすり",
+    "out": "Media/sound/words/potion.mp3"
+  },
+  {
+    "id": "primal-air",
+    "text": "げんせいくうき",
+    "out": "Media/sound/words/primal-air.mp3"
+  },
+  {
+    "id": "primal-earth",
+    "text": "げんせいだいち",
+    "out": "Media/sound/words/primal-earth.mp3"
+  },
+  {
+    "id": "primal-fire",
+    "text": "げんせいかえん",
+    "out": "Media/sound/words/primal-fire.mp3"
+  },
+  {
+    "id": "primal-life",
+    "text": "げんせいせいめい",
+    "out": "Media/sound/words/primal-life.mp3"
+  },
+  {
+    "id": "primal-mana",
+    "text": "げんせいほうりょく",
+    "out": "Media/sound/words/primal-mana.mp3"
+  },
+  {
+    "id": "primal-shadow",
+    "text": "げんせいかげ",
+    "out": "Media/sound/words/primal-shadow.mp3"
+  },
+  {
+    "id": "primal-water",
+    "text": "げんせいのみず",
+    "out": "Media/sound/words/primal-water.mp3"
+  },
+  {
+    "id": "pristine-hide",
+    "text": "かんびひかく",
+    "out": "Media/sound/words/pristine-hide.mp3"
+  },
+  {
+    "id": "ranged",
+    "text": "えんせい",
+    "out": "Media/sound/words/ranged.mp3"
+  },
+  {
+    "id": "reagent",
+    "text": "しほうざいりょう",
+    "out": "Media/sound/words/reagent.mp3"
+  },
+  {
+    "id": "refreshment",
+    "text": "ちゃてん",
+    "out": "Media/sound/words/refreshment.mp3"
+  },
+  {
+    "id": "ring",
+    "text": "ゆびわ",
+    "out": "Media/sound/words/ring.mp3"
+  },
+  {
+    "id": "robe",
+    "text": "ながぎ",
+    "out": "Media/sound/words/robe.mp3"
+  },
+  {
+    "id": "ruby",
+    "text": "るびー",
+    "out": "Media/sound/words/ruby.mp3"
+  },
+  {
+    "id": "rugged-leather",
+    "text": "かたかわ",
+    "out": "Media/sound/words/rugged-leather.mp3"
+  },
+  {
+    "id": "runecloth",
+    "text": "ふもんぬの",
+    "out": "Media/sound/words/runecloth.mp3"
+  },
+  {
+    "id": "sapphire",
+    "text": "さふぁいあ",
+    "out": "Media/sound/words/sapphire.mp3"
+  },
+  {
+    "id": "saronite-ore",
+    "text": "さらないとこうせき",
+    "out": "Media/sound/words/saronite-ore.mp3"
+  },
+  {
+    "id": "scepter",
+    "text": "けんじょう",
+    "out": "Media/sound/words/scepter.mp3"
+  },
+  {
+    "id": "scroll",
+    "text": "まきもの",
+    "out": "Media/sound/words/scroll.mp3"
+  },
+  {
+    "id": "shield",
+    "text": "たて",
+    "out": "Media/sound/words/shield.mp3"
+  },
+  {
+    "id": "shoulder",
+    "text": "けんぶ",
+    "out": "Media/sound/words/shoulder.mp3"
+  },
+  {
+    "id": "sigil",
+    "text": "しじる",
+    "out": "Media/sound/words/sigil.mp3"
+  },
+  {
+    "id": "silk-cloth",
+    "text": "しぬの",
+    "out": "Media/sound/words/silk-cloth.mp3"
+  },
+  {
+    "id": "silkweed",
+    "text": "いとくさ",
+    "out": "Media/sound/words/silkweed.mp3"
+  },
+  {
+    "id": "silver-ore",
+    "text": "ぎんこうせき",
+    "out": "Media/sound/words/silver-ore.mp3"
+  },
+  {
+    "id": "silverleaf",
+    "text": "ぎんようそう",
+    "out": "Media/sound/words/silverleaf.mp3"
+  },
+  {
+    "id": "snow-lily",
+    "text": "ゆきゆり",
+    "out": "Media/sound/words/snow-lily.mp3"
+  },
+  {
+    "id": "soul-dust",
+    "text": "たましいのちり",
+    "out": "Media/sound/words/soul-dust.mp3"
+  },
+  {
+    "id": "staff",
+    "text": "つえ",
+    "out": "Media/sound/words/staff.mp3"
+  },
+  {
+    "id": "sungrass",
+    "text": "たいようそう",
+    "out": "Media/sound/words/sungrass.mp3"
+  },
+  {
+    "id": "swiftness-potion",
+    "text": "すぴーどぽーしょん",
+    "out": "Media/sound/words/swiftness-potion.mp3"
+  },
+  {
+    "id": "sword",
+    "text": "つるぎ",
+    "out": "Media/sound/words/sword.mp3"
+  },
+  {
+    "id": "thick-leather",
+    "text": "あついかわ",
+    "out": "Media/sound/words/thick-leather.mp3"
+  },
+  {
+    "id": "thorium-ore",
+    "text": "そりうむこうせき",
+    "out": "Media/sound/words/thorium-ore.mp3"
+  },
+  {
+    "id": "throwing-weapon",
+    "text": "なげぶき",
+    "out": "Media/sound/words/throwing-weapon.mp3"
+  },
+  {
+    "id": "tin-ore",
+    "text": "すずこうせき",
+    "out": "Media/sound/words/tin-ore.mp3"
+  },
+  {
+    "id": "titanium-ore",
+    "text": "たいたんこうせき",
+    "out": "Media/sound/words/titanium-ore.mp3"
+  },
+  {
+    "id": "topaz",
+    "text": "とぱーず",
+    "out": "Media/sound/words/topaz.mp3"
+  },
+  {
+    "id": "totem-item",
+    "text": "とーてむ",
+    "out": "Media/sound/words/totem-item.mp3"
+  },
+  {
+    "id": "trinket",
+    "text": "しょくひん",
+    "out": "Media/sound/words/trinket.mp3"
+  },
+  {
+    "id": "two-handed-axe",
+    "text": "りょうておの",
+    "out": "Media/sound/words/two-handed-axe.mp3"
+  },
+  {
+    "id": "two-handed-mace",
+    "text": "りょうてめいす",
+    "out": "Media/sound/words/two-handed-mace.mp3"
+  },
+  {
+    "id": "two-handed-sword",
+    "text": "りょうてけん",
+    "out": "Media/sound/words/two-handed-sword.mp3"
+  },
+  {
+    "id": "waist",
+    "text": "ようぶ",
+    "out": "Media/sound/words/waist.mp3"
+  },
+  {
+    "id": "wand",
+    "text": "まほうのつえ",
+    "out": "Media/sound/words/wand.mp3"
+  },
+  {
+    "id": "water",
+    "text": "みず",
+    "out": "Media/sound/words/water.mp3"
+  },
+  {
+    "id": "windwool-cloth",
+    "text": "かぜわたぬの",
+    "out": "Media/sound/words/windwool-cloth.mp3"
+  },
+  {
+    "id": "wool-cloth",
+    "text": "もうりょう",
+    "out": "Media/sound/words/wool-cloth.mp3"
+  },
+  {
+    "id": "wrist",
+    "text": "うでわ",
+    "out": "Media/sound/words/wrist.mp3"
+  },
+  {
+    "id": "arcane-blast",
+    "text": "おうじゅつしょうげき",
+    "out": "Media/sound/words/arcane-blast.mp3"
+  },
+  {
+    "id": "arcane-explosion",
+    "text": "まばくじゅつ",
+    "out": "Media/sound/words/arcane-explosion.mp3"
+  },
+  {
+    "id": "arcane-missiles",
+    "text": "おうじゅつひだん",
+    "out": "Media/sound/words/arcane-missiles.mp3"
+  },
+  {
+    "id": "attack",
+    "text": "こうげき",
+    "out": "Media/sound/words/attack.mp3"
+  },
+  {
+    "id": "banish",
+    "text": "ほうちくじゅつ",
+    "out": "Media/sound/words/banish.mp3"
+  },
+  {
+    "id": "battle-shout",
+    "text": "せんとうどこう",
+    "out": "Media/sound/words/battle-shout.mp3"
+  },
+  {
+    "id": "berserker-rage",
+    "text": "きょうぼうのいか",
+    "out": "Media/sound/words/berserker-rage.mp3"
+  },
+  {
+    "id": "blink",
+    "text": "せんげんじゅつ",
+    "out": "Media/sound/words/blink.mp3"
+  },
+  {
+    "id": "bloodlust",
+    "text": "しけつ",
+    "out": "Media/sound/words/bloodlust.mp3"
+  },
+  {
+    "id": "bloodrage",
+    "text": "けっせいきょうぼう",
+    "out": "Media/sound/words/bloodrage.mp3"
+  },
+  {
+    "id": "chain-heal",
+    "text": "ちりょうさ",
+    "out": "Media/sound/words/chain-heal.mp3"
+  },
+  {
+    "id": "chain-lightning",
+    "text": "いなずまさ",
+    "out": "Media/sound/words/chain-lightning.mp3"
+  },
+  {
+    "id": "charge",
+    "text": "ちょうふく",
+    "out": "Media/sound/words/charge.mp3"
+  },
+  {
+    "id": "circle-of-healing",
+    "text": "ちりょうのわ",
+    "out": "Media/sound/words/circle-of-healing.mp3"
+  },
+  {
+    "id": "commanding-shout",
+    "text": "めいれいどこう",
+    "out": "Media/sound/words/commanding-shout.mp3"
+  },
+  {
+    "id": "concussion-blow",
+    "text": "しんどうもうち",
+    "out": "Media/sound/words/concussion-blow.mp3"
+  },
+  {
+    "id": "conjure-food",
+    "text": "ぞうしょくじゅつ",
+    "out": "Media/sound/words/conjure-food.mp3"
+  },
+  {
+    "id": "conjure-water",
+    "text": "ぞうすいじゅつ",
+    "out": "Media/sound/words/conjure-water.mp3"
+  },
+  {
+    "id": "corruption",
+    "text": "ふしょくじゅつ",
+    "out": "Media/sound/words/corruption.mp3"
+  },
+  {
+    "id": "counterspell",
+    "text": "ほうじゅつはんせい",
+    "out": "Media/sound/words/counterspell.mp3"
+  },
+  {
+    "id": "curse-of-agony",
+    "text": "つうくのろい",
+    "out": "Media/sound/words/curse-of-agony.mp3"
+  },
+  {
+    "id": "curse-of-elements",
+    "text": "げんそくのろい",
+    "out": "Media/sound/words/curse-of-elements.mp3"
+  },
+  {
+    "id": "demon-armor",
+    "text": "あくまひふ",
+    "out": "Media/sound/words/demon-armor.mp3"
+  },
+  {
+    "id": "demoralizing-shout",
+    "text": "ざしどこう",
+    "out": "Media/sound/words/demoralizing-shout.mp3"
+  },
+  {
+    "id": "dispel-magic",
+    "text": "くさまほう",
+    "out": "Media/sound/words/dispel-magic.mp3"
+  },
+  {
+    "id": "drain-life",
+    "text": "せいめいをすう",
+    "out": "Media/sound/words/drain-life.mp3"
+  },
+  {
+    "id": "drain-soul",
+    "text": "たましいをすう",
+    "out": "Media/sound/words/drain-soul.mp3"
+  },
+  {
+    "id": "earth-shock",
+    "text": "だいちしんげき",
+    "out": "Media/sound/words/earth-shock.mp3"
+  },
+  {
+    "id": "earthbind-totem",
+    "text": "じばくとーてむ",
+    "out": "Media/sound/words/earthbind-totem.mp3"
+  },
+  {
+    "id": "earthliving-weapon",
+    "text": "だいちせいめいぶき",
+    "out": "Media/sound/words/earthliving-weapon.mp3"
+  },
+  {
+    "id": "evocation",
+    "text": "かんせい",
+    "out": "Media/sound/words/evocation.mp3"
+  },
+  {
+    "id": "execute",
+    "text": "ざんさつ",
+    "out": "Media/sound/words/execute.mp3"
+  },
+  {
+    "id": "fade",
+    "text": "ぜんいんじゅつ",
+    "out": "Media/sound/words/fade.mp3"
+  },
+  {
+    "id": "fear",
+    "text": "きょうふ",
+    "out": "Media/sound/words/fear.mp3"
+  },
+  {
+    "id": "fel-domination",
+    "text": "あくましはい",
+    "out": "Media/sound/words/fel-domination.mp3"
+  },
+  {
+    "id": "fire-nova",
+    "text": "かえんしんせい",
+    "out": "Media/sound/words/fire-nova.mp3"
+  },
+  {
+    "id": "fireball",
+    "text": "かきゅうじゅつ",
+    "out": "Media/sound/words/fireball.mp3"
+  },
+  {
+    "id": "flame-shock",
+    "text": "れつえんしんげき",
+    "out": "Media/sound/words/flame-shock.mp3"
+  },
+  {
+    "id": "flash-heal",
+    "text": "かいそくちりょう",
+    "out": "Media/sound/words/flash-heal.mp3"
+  },
+  {
+    "id": "frost-nova",
+    "text": "ひょうそうしんせい",
+    "out": "Media/sound/words/frost-nova.mp3"
+  },
+  {
+    "id": "frost-shock",
+    "text": "ひょうそうしんげき",
+    "out": "Media/sound/words/frost-shock.mp3"
+  },
+  {
+    "id": "frostbolt",
+    "text": "かんびょうや",
+    "out": "Media/sound/words/frostbolt.mp3"
+  },
+  {
+    "id": "ghost-wolf",
+    "text": "ゆうれいのおおかみ",
+    "out": "Media/sound/words/ghost-wolf.mp3"
+  },
+  {
+    "id": "greater-heal",
+    "text": "きょうかちりょうじゅつ",
+    "out": "Media/sound/words/greater-heal.mp3"
+  },
+  {
+    "id": "haunt",
+    "text": "きえいまとい",
+    "out": "Media/sound/words/haunt.mp3"
+  },
+  {
+    "id": "heal-spell",
+    "text": "ちりょうじゅつ",
+    "out": "Media/sound/words/heal-spell.mp3"
+  },
+  {
+    "id": "healing-wave",
+    "text": "ちりょうなみ",
+    "out": "Media/sound/words/healing-wave.mp3"
+  },
+  {
+    "id": "heroic-strike",
+    "text": "へいゆうだげき",
+    "out": "Media/sound/words/heroic-strike.mp3"
+  },
+  {
+    "id": "heroism",
+    "text": "えいゆう",
+    "out": "Media/sound/words/heroism.mp3"
+  },
+  {
+    "id": "hex",
+    "text": "ようじゅつ",
+    "out": "Media/sound/words/hex.mp3"
+  },
+  {
+    "id": "holy-fire",
+    "text": "しんせいのひ",
+    "out": "Media/sound/words/holy-fire.mp3"
+  },
+  {
+    "id": "holy-nova",
+    "text": "しんせいしんせい",
+    "out": "Media/sound/words/holy-nova.mp3"
+  },
+  {
+    "id": "ice-barrier",
+    "text": "かんびょうごたい",
+    "out": "Media/sound/words/ice-barrier.mp3"
+  },
+  {
+    "id": "ice-block",
+    "text": "かんびょうしょうへき",
+    "out": "Media/sound/words/ice-block.mp3"
+  },
+  {
+    "id": "immolate",
+    "text": "けんさい",
+    "out": "Media/sound/words/immolate.mp3"
+  },
+  {
+    "id": "intervene",
+    "text": "えんご",
+    "out": "Media/sound/words/intervene.mp3"
+  },
+  {
+    "id": "last-stand",
+    "text": "はふちんしゅう",
+    "out": "Media/sound/words/last-stand.mp3"
+  },
+  {
+    "id": "lava-burst",
+    "text": "ようがんばくれつ",
+    "out": "Media/sound/words/lava-burst.mp3"
+  },
+  {
+    "id": "lesser-heal",
+    "text": "じきゅうちりょうじゅつ",
+    "out": "Media/sound/words/lesser-heal.mp3"
+  },
+  {
+    "id": "lesser-healing-wave",
+    "text": "じきゅうちりょうなみ",
+    "out": "Media/sound/words/lesser-healing-wave.mp3"
+  },
+  {
+    "id": "levitate",
+    "text": "ひょうふじゅつ",
+    "out": "Media/sound/words/levitate.mp3"
+  },
+  {
+    "id": "lightning-bolt",
+    "text": "いなずまや",
+    "out": "Media/sound/words/lightning-bolt.mp3"
+  },
+  {
+    "id": "lightning-shield",
+    "text": "いなずまのしょうへき",
+    "out": "Media/sound/words/lightning-shield.mp3"
+  },
+  {
+    "id": "living-bomb",
+    "text": "かつどうばくだん",
+    "out": "Media/sound/words/living-bomb.mp3"
+  },
+  {
+    "id": "mana-tide-totem",
+    "text": "ほうりょくのしおとーてむ",
+    "out": "Media/sound/words/mana-tide-totem.mp3"
+  },
+  {
+    "id": "metamorphosis",
+    "text": "あくまへんけい",
+    "out": "Media/sound/words/metamorphosis.mp3"
+  },
+  {
+    "id": "mind-blast",
+    "text": "しんれいしんばく",
+    "out": "Media/sound/words/mind-blast.mp3"
+  },
+  {
+    "id": "mind-flay",
+    "text": "しんれいべんち",
+    "out": "Media/sound/words/mind-flay.mp3"
+  },
+  {
+    "id": "mortal-strike",
+    "text": "ちしだげき",
+    "out": "Media/sound/words/mortal-strike.mp3"
+  },
+  {
+    "id": "piercing-howl",
+    "text": "しじどこう",
+    "out": "Media/sound/words/piercing-howl.mp3"
+  },
+  {
+    "id": "polymorph",
+    "text": "へんけいじゅつ",
+    "out": "Media/sound/words/polymorph.mp3"
+  },
+  {
+    "id": "power-word-fortitude",
+    "text": "しんげんじゅつじん",
+    "out": "Media/sound/words/power-word-fortitude.mp3"
+  },
+  {
+    "id": "power-word-shield",
+    "text": "しんげんじゅつたて",
+    "out": "Media/sound/words/power-word-shield.mp3"
+  },
+  {
+    "id": "prayer-of-healing",
+    "text": "ちりょうとうげん",
+    "out": "Media/sound/words/prayer-of-healing.mp3"
+  },
+  {
+    "id": "psychic-scream",
+    "text": "しんれいせんしょう",
+    "out": "Media/sound/words/psychic-scream.mp3"
+  },
+  {
+    "id": "purge",
+    "text": "じょうか",
+    "out": "Media/sound/words/purge.mp3"
+  },
+  {
+    "id": "pyroblast",
+    "text": "えんばくじゅつ",
+    "out": "Media/sound/words/pyroblast.mp3"
+  },
+  {
+    "id": "recklessness",
+    "text": "ろうまん",
+    "out": "Media/sound/words/recklessness.mp3"
+  },
+  {
+    "id": "renew",
+    "text": "かいふく",
+    "out": "Media/sound/words/renew.mp3"
+  },
+  {
+    "id": "resurrection",
+    "text": "ふっかつじゅつ",
+    "out": "Media/sound/words/resurrection.mp3"
+  },
+  {
+    "id": "retaliation",
+    "text": "はんげき",
+    "out": "Media/sound/words/retaliation.mp3"
+  },
+  {
+    "id": "riptide",
+    "text": "げきりゅう",
+    "out": "Media/sound/words/riptide.mp3"
+  },
+  {
+    "id": "seed-of-corruption",
+    "text": "ふしょくのしゅ",
+    "out": "Media/sound/words/seed-of-corruption.mp3"
+  },
+  {
+    "id": "sentry-totem",
+    "text": "こうさとーてむ",
+    "out": "Media/sound/words/sentry-totem.mp3"
+  },
+  {
+    "id": "shadow-bolt",
+    "text": "あんげいや",
+    "out": "Media/sound/words/shadow-bolt.mp3"
+  },
+  {
+    "id": "shadow-word-pain",
+    "text": "あんげんじゅついたみ",
+    "out": "Media/sound/words/shadow-word-pain.mp3"
+  },
+  {
+    "id": "shield-slam",
+    "text": "たてもうち",
+    "out": "Media/sound/words/shield-slam.mp3"
+  },
+  {
+    "id": "shield-wall",
+    "text": "たてかべ",
+    "out": "Media/sound/words/shield-wall.mp3"
+  },
+  {
+    "id": "shock-spell",
+    "text": "しんげき",
+    "out": "Media/sound/words/shock-spell.mp3"
+  },
+  {
+    "id": "slow",
+    "text": "かんそくじゅつ",
+    "out": "Media/sound/words/slow.mp3"
+  },
+  {
+    "id": "smite",
+    "text": "ちょうげき",
+    "out": "Media/sound/words/smite.mp3"
+  },
+  {
+    "id": "soul-fire",
+    "text": "たましいのひ",
+    "out": "Media/sound/words/soul-fire.mp3"
+  },
+  {
+    "id": "spellsteal",
+    "text": "ほうじゅつしゅう",
+    "out": "Media/sound/words/spellsteal.mp3"
+  },
+  {
+    "id": "summon-felguard",
+    "text": "しょうかんえいし",
+    "out": "Media/sound/words/summon-felguard.mp3"
+  },
+  {
+    "id": "summon-felhunter",
+    "text": "しょうかんみま",
+    "out": "Media/sound/words/summon-felhunter.mp3"
+  },
+  {
+    "id": "summon-imp",
+    "text": "しょうかんこおに",
+    "out": "Media/sound/words/summon-imp.mp3"
+  },
+  {
+    "id": "summon-voidwalker",
+    "text": "しょうかんうぃーどぅうぉーかー",
+    "out": "Media/sound/words/summon-voidwalker.mp3"
+  },
+  {
+    "id": "taunt",
+    "text": "ちょうしょう",
+    "out": "Media/sound/words/taunt.mp3"
+  },
+  {
+    "id": "thunder-clap",
+    "text": "らいていげき",
+    "out": "Media/sound/words/thunder-clap.mp3"
+  },
+  {
+    "id": "thunderstorm",
+    "text": "らいぼう",
+    "out": "Media/sound/words/thunderstorm.mp3"
+  },
+  {
+    "id": "totemic-recall",
+    "text": "とーてむしょうかん",
+    "out": "Media/sound/words/totemic-recall.mp3"
+  },
+  {
+    "id": "tremor-totem",
+    "text": "せんりつとーてむ",
+    "out": "Media/sound/words/tremor-totem.mp3"
+  },
+  {
+    "id": "unstable-affliction",
+    "text": "つうくむじょう",
+    "out": "Media/sound/words/unstable-affliction.mp3"
+  },
+  {
+    "id": "vampiric-embrace",
+    "text": "きゅうけつきのよう",
+    "out": "Media/sound/words/vampiric-embrace.mp3"
+  },
+  {
+    "id": "vampiric-touch",
+    "text": "きゅうけつきのしょく",
+    "out": "Media/sound/words/vampiric-touch.mp3"
+  },
+  {
+    "id": "water-shield",
+    "text": "みずのしょうへき",
+    "out": "Media/sound/words/water-shield.mp3"
+  },
+  {
+    "id": "water-walking",
+    "text": "みずのうえあるき",
+    "out": "Media/sound/words/water-walking.mp3"
+  },
+  {
+    "id": "whirlwind",
+    "text": "せんぷうざん",
+    "out": "Media/sound/words/whirlwind.mp3"
+  },
+  {
+    "id": "wind-shear",
+    "text": "かぜきり",
+    "out": "Media/sound/words/wind-shear.mp3"
+  },
+  {
+    "id": "ahnkahet",
+    "text": "あんかへと",
+    "out": "Media/sound/words/ahnkahet.mp3"
+  },
+  {
+    "id": "alterac-valley",
+    "text": "おとらんくたに",
+    "out": "Media/sound/words/alterac-valley.mp3"
+  },
+  {
+    "id": "arathi-basin",
+    "text": "あらしぼんち",
+    "out": "Media/sound/words/arathi-basin.mp3"
+  },
+  {
+    "id": "arathi-highlands",
+    "text": "あらしこうち",
+    "out": "Media/sound/words/arathi-highlands.mp3"
+  },
+  {
+    "id": "ashenvale",
+    "text": "はいこく",
+    "out": "Media/sound/words/ashenvale.mp3"
+  },
+  {
+    "id": "azjol-nerub",
+    "text": "あじょるにるぶ",
+    "out": "Media/sound/words/azjol-nerub.mp3"
+  },
+  {
+    "id": "azuremyst-isle",
+    "text": "ひらんとう",
+    "out": "Media/sound/words/azuremyst-isle.mp3"
+  },
+  {
+    "id": "badlands",
+    "text": "こうぶちのこうぶち",
+    "out": "Media/sound/words/badlands.mp3"
+  },
+  {
+    "id": "baradin-hold",
+    "text": "ばらでんかんごく",
+    "out": "Media/sound/words/baradin-hold.mp3"
+  },
+  {
+    "id": "barrens",
+    "text": "ひんちのち",
+    "out": "Media/sound/words/barrens.mp3"
+  },
+  {
+    "id": "bastion-of-twilight",
+    "text": "たしょくほりょう",
+    "out": "Media/sound/words/bastion-of-twilight.mp3"
+  },
+  {
+    "id": "battle-for-gilneas",
+    "text": "ぎるにすのたたかい",
+    "out": "Media/sound/words/battle-for-gilneas.mp3"
+  },
+  {
+    "id": "black-morass",
+    "text": "くろいたに",
+    "out": "Media/sound/words/black-morass.mp3"
+  },
+  {
+    "id": "black-temple",
+    "text": "くろやみしんでん",
+    "out": "Media/sound/words/black-temple.mp3"
+  },
+  {
+    "id": "blackfathom-deeps",
+    "text": "くろふちえん",
+    "out": "Media/sound/words/blackfathom-deeps.mp3"
+  },
+  {
+    "id": "blackrock-caverns",
+    "text": "こくせきどうくつ",
+    "out": "Media/sound/words/blackrock-caverns.mp3"
+  },
+  {
+    "id": "blackrock-depths",
+    "text": "くろいしまえん",
+    "out": "Media/sound/words/blackrock-depths.mp3"
+  },
+  {
+    "id": "blackrock-mountain",
+    "text": "くろいしざん",
+    "out": "Media/sound/words/blackrock-mountain.mp3"
+  },
+  {
+    "id": "blackwing-lair",
+    "text": "こくよくのそう",
+    "out": "Media/sound/words/blackwing-lair.mp3"
+  },
+  {
+    "id": "blades-edge-mountains",
+    "text": "とうほうざん",
+    "out": "Media/sound/words/blades-edge-mountains.mp3"
+  },
+  {
+    "id": "blasted-lands",
+    "text": "じゅいのち",
+    "out": "Media/sound/words/blasted-lands.mp3"
+  },
+  {
+    "id": "bloodmyst-isle",
+    "text": "ひけつとう",
+    "out": "Media/sound/words/bloodmyst-isle.mp3"
+  },
+  {
+    "id": "booty-bay",
+    "text": "たからぶかいわん",
+    "out": "Media/sound/words/booty-bay.mp3"
+  },
+  {
+    "id": "borean-tundra",
+    "text": "ほくふうこげん",
+    "out": "Media/sound/words/borean-tundra.mp3"
+  },
+  {
+    "id": "brill",
+    "text": "ぶりる",
+    "out": "Media/sound/words/brill.mp3"
+  },
+  {
+    "id": "burning-steppes",
+    "text": "ねんしょうへいげん",
+    "out": "Media/sound/words/burning-steppes.mp3"
+  },
+  {
+    "id": "caverns-of-time",
+    "text": "ときのあな",
+    "out": "Media/sound/words/caverns-of-time.mp3"
+  },
+  {
+    "id": "crossroads",
+    "text": "じゅうじぐち",
+    "out": "Media/sound/words/crossroads.mp3"
+  },
+  {
+    "id": "crystal-song-forest",
+    "text": "すいしょうのうたしんりん",
+    "out": "Media/sound/words/crystal-song-forest.mp3"
+  },
+  {
+    "id": "dalaran-city",
+    "text": "だららんし",
+    "out": "Media/sound/words/dalaran-city.mp3"
+  },
+  {
+    "id": "darkshore",
+    "text": "くろかいがん",
+    "out": "Media/sound/words/darkshore.mp3"
+  },
+  {
+    "id": "darnassus",
+    "text": "だなすす",
+    "out": "Media/sound/words/darnassus.mp3"
+  },
+  {
+    "id": "deadmines",
+    "text": "しぼうこうじょう",
+    "out": "Media/sound/words/deadmines.mp3"
+  },
+  {
+    "id": "deadwind-pass",
+    "text": "ぎゃくふうこみち",
+    "out": "Media/sound/words/deadwind-pass.mp3"
+  },
+  {
+    "id": "desolace",
+    "text": "せいりょうち",
+    "out": "Media/sound/words/desolace.mp3"
+  },
+  {
+    "id": "dire-maul",
+    "text": "あくうんのつち",
+    "out": "Media/sound/words/dire-maul.mp3"
+  },
+  {
+    "id": "dragon-soul",
+    "text": "きょりゅうのたましい",
+    "out": "Media/sound/words/dragon-soul.mp3"
+  },
+  {
+    "id": "dragonblight",
+    "text": "りゅうこつこうや",
+    "out": "Media/sound/words/dragonblight.mp3"
+  },
+  {
+    "id": "draktharon-keep",
+    "text": "だくさろうじょう",
+    "out": "Media/sound/words/draktharon-keep.mp3"
+  },
+  {
+    "id": "dread-wastes",
+    "text": "きょうふはいど",
+    "out": "Media/sound/words/dread-wastes.mp3"
+  },
+  {
+    "id": "durotar",
+    "text": "どろんたーる",
+    "out": "Media/sound/words/durotar.mp3"
+  },
+  {
+    "id": "duskwood",
+    "text": "たしょくしんりん",
+    "out": "Media/sound/words/duskwood.mp3"
+  },
+  {
+    "id": "dustwallow-marsh",
+    "text": "じんでいぬま",
+    "out": "Media/sound/words/dustwallow-marsh.mp3"
+  },
+  {
+    "id": "eastern-kingdoms",
+    "text": "とうぶおうこく",
+    "out": "Media/sound/words/eastern-kingdoms.mp3"
+  },
+  {
+    "id": "eastern-plaguelands",
+    "text": "ひがしんえきのち",
+    "out": "Media/sound/words/eastern-plaguelands.mp3"
+  },
+  {
+    "id": "elwynn-forest",
+    "text": "えいるいんもりの",
+    "out": "Media/sound/words/elwynn-forest.mp3"
+  },
+  {
+    "id": "escape-from-durnholde-keep",
+    "text": "だんほるどだっしゅつ",
+    "out": "Media/sound/words/escape-from-durnholde-keep.mp3"
+  },
+  {
+    "id": "exodar",
+    "text": "えそだ",
+    "out": "Media/sound/words/exodar.mp3"
+  },
+  {
+    "id": "eye-of-eternity",
+    "text": "えいこうのめ",
+    "out": "Media/sound/words/eye-of-eternity.mp3"
+  },
+  {
+    "id": "eye-of-the-storm",
+    "text": "ふうそうのめ",
+    "out": "Media/sound/words/eye-of-the-storm.mp3"
+  },
+  {
+    "id": "felwood",
+    "text": "ふぃうーどしんりん",
+    "out": "Media/sound/words/felwood.mp3"
+  },
+  {
+    "id": "feralas",
+    "text": "ふぃらす",
+    "out": "Media/sound/words/feralas.mp3"
+  },
+  {
+    "id": "firelands",
+    "text": "かげんのさかいかげん",
+    "out": "Media/sound/words/firelands.mp3"
+  },
+  {
+    "id": "forge-of-souls",
+    "text": "たましいようろ",
+    "out": "Media/sound/words/forge-of-souls.mp3"
+  },
+  {
+    "id": "gadgetzan",
+    "text": "がきせん",
+    "out": "Media/sound/words/gadgetzan.mp3"
+  },
+  {
+    "id": "gate-of-the-setting-sun",
+    "text": "ざんようかん",
+    "out": "Media/sound/words/gate-of-the-setting-sun.mp3"
+  },
+  {
+    "id": "gilneas",
+    "text": "ぎるにす",
+    "out": "Media/sound/words/gilneas.mp3"
+  },
+  {
+    "id": "gnomeregan",
+    "text": "のもりげん",
+    "out": "Media/sound/words/gnomeregan.mp3"
+  },
+  {
+    "id": "goldshire",
+    "text": "ひかりごきん",
+    "out": "Media/sound/words/goldshire.mp3"
+  },
+  {
+    "id": "grim-batol",
+    "text": "ぐりむばと",
+    "out": "Media/sound/words/grim-batol.mp3"
+  },
+  {
+    "id": "grizzly-hills",
+    "text": "はいぐつゅうおか",
+    "out": "Media/sound/words/grizzly-hills.mp3"
+  },
+  {
+    "id": "gruuls-lair",
+    "text": "ぐるるのみょう",
+    "out": "Media/sound/words/gruuls-lair.mp3"
+  },
+  {
+    "id": "gundrak",
+    "text": "こだらく",
+    "out": "Media/sound/words/gundrak.mp3"
+  },
+  {
+    "id": "halls-of-lightning",
+    "text": "いなずまだいてん",
+    "out": "Media/sound/words/halls-of-lightning.mp3"
+  },
+  {
+    "id": "halls-of-origination",
+    "text": "きげんだいだい",
+    "out": "Media/sound/words/halls-of-origination.mp3"
+  },
+  {
+    "id": "halls-of-reflection",
+    "text": "えいぞうだいてん",
+    "out": "Media/sound/words/halls-of-reflection.mp3"
+  },
+  {
+    "id": "halls-of-stone",
+    "text": "がんせきだいてん",
+    "out": "Media/sound/words/halls-of-stone.mp3"
+  },
+  {
+    "id": "heart-of-fear",
+    "text": "きょうふのこころ",
+    "out": "Media/sound/words/heart-of-fear.mp3"
+  },
+  {
+    "id": "hellfire-peninsula",
+    "text": "じごくひはんとう",
+    "out": "Media/sound/words/hellfire-peninsula.mp3"
+  },
+  {
+    "id": "hinterlands",
+    "text": "しんとらん",
+    "out": "Media/sound/words/hinterlands.mp3"
+  },
+  {
+    "id": "howling-fjord",
+    "text": "ごうふうきょうわん",
+    "out": "Media/sound/words/howling-fjord.mp3"
+  },
+  {
+    "id": "hyjal-summit",
+    "text": "かいがるほう",
+    "out": "Media/sound/words/hyjal-summit.mp3"
+  },
+  {
+    "id": "icecrown",
+    "text": "こおりかんむり",
+    "out": "Media/sound/words/icecrown.mp3"
+  },
+  {
+    "id": "icecrown-citadel",
+    "text": "こおりかんほりょう",
+    "out": "Media/sound/words/icecrown-citadel.mp3"
+  },
+  {
+    "id": "ironforge",
+    "text": "てつろほう",
+    "out": "Media/sound/words/ironforge.mp3"
+  },
+  {
+    "id": "isle-of-conquest",
+    "text": "せいふくのしま",
+    "out": "Media/sound/words/isle-of-conquest.mp3"
+  },
+  {
+    "id": "isle-of-giants",
+    "text": "きょじゅうとう",
+    "out": "Media/sound/words/isle-of-giants.mp3"
+  },
+  {
+    "id": "isle-of-thunder",
+    "text": "らいしんとう",
+    "out": "Media/sound/words/isle-of-thunder.mp3"
+  },
+  {
+    "id": "jade-forest",
+    "text": "ひすいりん",
+    "out": "Media/sound/words/jade-forest.mp3"
+  },
+  {
+    "id": "kalimdor",
+    "text": "かりむど",
+    "out": "Media/sound/words/kalimdor.mp3"
+  },
+  {
+    "id": "karazhan",
+    "text": "からざん",
+    "out": "Media/sound/words/karazhan.mp3"
+  },
+  {
+    "id": "krasarang-wilds",
+    "text": "からさんこうや",
+    "out": "Media/sound/words/krasarang-wilds.mp3"
+  },
+  {
+    "id": "kun-lai-summit",
+    "text": "こんらいほう",
+    "out": "Media/sound/words/kun-lai-summit.mp3"
+  },
+  {
+    "id": "loch-modan",
+    "text": "ろっくもだん",
+    "out": "Media/sound/words/loch-modan.mp3"
+  },
+  {
+    "id": "lower-blackrock-spire",
+    "text": "くろいしとうかそう",
+    "out": "Media/sound/words/lower-blackrock-spire.mp3"
+  },
+  {
+    "id": "magtheridons-lair",
+    "text": "ませりとんのみょう",
+    "out": "Media/sound/words/magtheridons-lair.mp3"
+  },
+  {
+    "id": "maraudon",
+    "text": "まらどん",
+    "out": "Media/sound/words/maraudon.mp3"
+  },
+  {
+    "id": "mogushan-palace",
+    "text": "まこざんきゅうでん",
+    "out": "Media/sound/words/mogushan-palace.mp3"
+  },
+  {
+    "id": "mogushan-vaults",
+    "text": "まこざんたからく",
+    "out": "Media/sound/words/mogushan-vaults.mp3"
+  },
+  {
+    "id": "molten-core",
+    "text": "ようかのしん",
+    "out": "Media/sound/words/molten-core.mp3"
+  },
+  {
+    "id": "mulgore",
+    "text": "もがらい",
+    "out": "Media/sound/words/mulgore.mp3"
+  },
+  {
+    "id": "nagrand",
+    "text": "ながらんど",
+    "out": "Media/sound/words/nagrand.mp3"
+  },
+  {
+    "id": "naxxramas",
+    "text": "なくさます",
+    "out": "Media/sound/words/naxxramas.mp3"
+  },
+  {
+    "id": "netherstorm",
+    "text": "うちゅうふうそう",
+    "out": "Media/sound/words/netherstorm.mp3"
+  },
+  {
+    "id": "northern-stranglethorn",
+    "text": "きたけいこくだに",
+    "out": "Media/sound/words/northern-stranglethorn.mp3"
+  },
+  {
+    "id": "northrend",
+    "text": "のせんで",
+    "out": "Media/sound/words/northrend.mp3"
+  },
+  {
+    "id": "obsidian-sanctum",
+    "text": "こくせきせいでん",
+    "out": "Media/sound/words/obsidian-sanctum.mp3"
+  },
+  {
+    "id": "old-hillsbrad-foothills",
+    "text": "きゅうひるすぶれっどおか",
+    "out": "Media/sound/words/old-hillsbrad-foothills.mp3"
+  },
+  {
+    "id": "onyxias-lair",
+    "text": "おにくしあのみょう",
+    "out": "Media/sound/words/onyxias-lair.mp3"
+  },
+  {
+    "id": "orgrimmar",
+    "text": "おぐりま",
+    "out": "Media/sound/words/orgrimmar.mp3"
+  },
+  {
+    "id": "outland",
+    "text": "がいいき",
+    "out": "Media/sound/words/outland.mp3"
+  },
+  {
+    "id": "pandaria",
+    "text": "ぱんだりあ",
+    "out": "Media/sound/words/pandaria.mp3"
+  },
+  {
+    "id": "pit-of-saron",
+    "text": "されんのふち",
+    "out": "Media/sound/words/pit-of-saron.mp3"
+  },
+  {
+    "id": "ragefire-chasm",
+    "text": "どえんれつこく",
+    "out": "Media/sound/words/ragefire-chasm.mp3"
+  },
+  {
+    "id": "ratchet",
+    "text": "きょくがつじょう",
+    "out": "Media/sound/words/ratchet.mp3"
+  },
+  {
+    "id": "razorfen-downs",
+    "text": "かみそりこうち",
+    "out": "Media/sound/words/razorfen-downs.mp3"
+  },
+  {
+    "id": "razorfen-kraul",
+    "text": "かみそりぬま",
+    "out": "Media/sound/words/razorfen-kraul.mp3"
+  },
+  {
+    "id": "redridge-mountains",
+    "text": "せきせきざん",
+    "out": "Media/sound/words/redridge-mountains.mp3"
+  },
+  {
+    "id": "ruby-sanctum",
+    "text": "こうぎょくせいでん",
+    "out": "Media/sound/words/ruby-sanctum.mp3"
+  },
+  {
+    "id": "ruins-of-ahnqiraj",
+    "text": "あんちらはいきょ",
+    "out": "Media/sound/words/ruins-of-ahnqiraj.mp3"
+  },
+  {
+    "id": "scarlet-halls",
+    "text": "けっしょくだいてん",
+    "out": "Media/sound/words/scarlet-halls.mp3"
+  },
+  {
+    "id": "scarlet-monastery",
+    "text": "けっしょくしゅうどういん",
+    "out": "Media/sound/words/scarlet-monastery.mp3"
+  },
+  {
+    "id": "scholomance",
+    "text": "つうれいがくいん",
+    "out": "Media/sound/words/scholomance.mp3"
+  },
+  {
+    "id": "searing-gorge",
+    "text": "しゃくねつきょうこく",
+    "out": "Media/sound/words/searing-gorge.mp3"
+  },
+  {
+    "id": "senjin-village",
+    "text": "しんじんむら",
+    "out": "Media/sound/words/senjin-village.mp3"
+  },
+  {
+    "id": "serpentshrine-cavern",
+    "text": "どくじゃしんでん",
+    "out": "Media/sound/words/serpentshrine-cavern.mp3"
+  },
+  {
+    "id": "shado-pan-monastery",
+    "text": "えいぞうぜんいん",
+    "out": "Media/sound/words/shado-pan-monastery.mp3"
+  },
+  {
+    "id": "shadowfang-keep",
+    "text": "かげきゅうじょう",
+    "out": "Media/sound/words/shadowfang-keep.mp3"
+  },
+  {
+    "id": "shadowmoon-valley",
+    "text": "えいげきだに",
+    "out": "Media/sound/words/shadowmoon-valley.mp3"
+  },
+  {
+    "id": "shattrath-city",
+    "text": "しゃたす",
+    "out": "Media/sound/words/shattrath-city.mp3"
+  },
+  {
+    "id": "sholazar-basin",
+    "text": "そらさばちん",
+    "out": "Media/sound/words/sholazar-basin.mp3"
+  },
+  {
+    "id": "shrine-of-seven-stars",
+    "text": "しちせいでん",
+    "out": "Media/sound/words/shrine-of-seven-stars.mp3"
+  },
+  {
+    "id": "shrine-of-two-moons",
+    "text": "そうげつでん",
+    "out": "Media/sound/words/shrine-of-two-moons.mp3"
+  },
+  {
+    "id": "siege-of-niuzao-temple",
+    "text": "ぎゅうそうじいこう",
+    "out": "Media/sound/words/siege-of-niuzao-temple.mp3"
+  },
+  {
+    "id": "siege-of-orgrimmar",
+    "text": "けっせんおぐりま",
+    "out": "Media/sound/words/siege-of-orgrimmar.mp3"
+  },
+  {
+    "id": "silithus",
+    "text": "しりすし",
+    "out": "Media/sound/words/silithus.mp3"
+  },
+  {
+    "id": "silvermoon-city",
+    "text": "ぎんげつじょう",
+    "out": "Media/sound/words/silvermoon-city.mp3"
+  },
+  {
+    "id": "silvershard-mines",
+    "text": "しろがねこうこう",
+    "out": "Media/sound/words/silvershard-mines.mp3"
+  },
+  {
+    "id": "stockade",
+    "text": "かんごく",
+    "out": "Media/sound/words/stockade.mp3"
+  },
+  {
+    "id": "stonetalon-mountains",
+    "text": "せきそうざん",
+    "out": "Media/sound/words/stonetalon-mountains.mp3"
+  },
+  {
+    "id": "storm-peaks",
+    "text": "ふうそうぐんざん",
+    "out": "Media/sound/words/storm-peaks.mp3"
+  },
+  {
+    "id": "stormstout-brewery",
+    "text": "ふうそうれっしゅじょうぞうじょう",
+    "out": "Media/sound/words/stormstout-brewery.mp3"
+  },
+  {
+    "id": "stormwind-city",
+    "text": "ぼうふうじょう",
+    "out": "Media/sound/words/stormwind-city.mp3"
+  },
+  {
+    "id": "strand-of-the-ancients",
+    "text": "えんこかいがん",
+    "out": "Media/sound/words/strand-of-the-ancients.mp3"
+  },
+  {
+    "id": "stranglethorn-vale",
+    "text": "けいこくだに",
+    "out": "Media/sound/words/stranglethorn-vale.mp3"
+  },
+  {
+    "id": "stratholme",
+    "text": "すたんそむ",
+    "out": "Media/sound/words/stratholme.mp3"
+  },
+  {
+    "id": "sunken-temple",
+    "text": "ちんもつしんてん",
+    "out": "Media/sound/words/sunken-temple.mp3"
+  },
+  {
+    "id": "sunwell-plateau",
+    "text": "たいようのいこうち",
+    "out": "Media/sound/words/sunwell-plateau.mp3"
+  },
+  {
+    "id": "swamp-of-sorrows",
+    "text": "ひしょうぬま",
+    "out": "Media/sound/words/swamp-of-sorrows.mp3"
+  },
+  {
+    "id": "tanaris",
+    "text": "たなりす",
+    "out": "Media/sound/words/tanaris.mp3"
+  },
+  {
+    "id": "tempest-keep",
+    "text": "ふうそうようさい",
+    "out": "Media/sound/words/tempest-keep.mp3"
+  },
+  {
+    "id": "temple-of-ahnqiraj",
+    "text": "あんちらしんびょう",
+    "out": "Media/sound/words/temple-of-ahnqiraj.mp3"
+  },
+  {
+    "id": "temple-of-kotmogu",
+    "text": "こうまこじ",
+    "out": "Media/sound/words/temple-of-kotmogu.mp3"
+  },
+  {
+    "id": "temple-of-the-jade-serpent",
+    "text": "せいぎょくだしんでん",
+    "out": "Media/sound/words/temple-of-the-jade-serpent.mp3"
+  },
+  {
+    "id": "terokkar-forest",
+    "text": "てろっかしんりん",
+    "out": "Media/sound/words/terokkar-forest.mp3"
+  },
+  {
+    "id": "terrace-of-endless-spring",
+    "text": "えいこうのしゅんだい",
+    "out": "Media/sound/words/terrace-of-endless-spring.mp3"
+  },
+  {
+    "id": "the-nexus",
+    "text": "まぼろし",
+    "out": "Media/sound/words/the-nexus.mp3"
+  },
+  {
+    "id": "thousand-needles",
+    "text": "せんばらいしはやし",
+    "out": "Media/sound/words/thousand-needles.mp3"
+  },
+  {
+    "id": "throne-of-the-four-winds",
+    "text": "しふうおうざ",
+    "out": "Media/sound/words/throne-of-the-four-winds.mp3"
+  },
+  {
+    "id": "throne-of-the-tides",
+    "text": "ちょうせきおうざ",
+    "out": "Media/sound/words/throne-of-the-tides.mp3"
+  },
+  {
+    "id": "throne-of-thunder",
+    "text": "らいでんおうざ",
+    "out": "Media/sound/words/throne-of-thunder.mp3"
+  },
+  {
+    "id": "thunder-bluff",
+    "text": "らいていがい",
+    "out": "Media/sound/words/thunder-bluff.mp3"
+  },
+  {
+    "id": "timeless-isle",
+    "text": "えいこうとう",
+    "out": "Media/sound/words/timeless-isle.mp3"
+  },
+  {
+    "id": "tirisfal-glades",
+    "text": "てぃりすふぁりんち",
+    "out": "Media/sound/words/tirisfal-glades.mp3"
+  },
+  {
+    "id": "townlong-steppes",
+    "text": "とうろうこうげん",
+    "out": "Media/sound/words/townlong-steppes.mp3"
+  },
+  {
+    "id": "trial-of-the-crusader",
+    "text": "じゅうじぐんのしれん",
+    "out": "Media/sound/words/trial-of-the-crusader.mp3"
+  },
+  {
+    "id": "twin-peaks",
+    "text": "そうしみね",
+    "out": "Media/sound/words/twin-peaks.mp3"
+  },
+  {
+    "id": "uldaman",
+    "text": "うだまん",
+    "out": "Media/sound/words/uldaman.mp3"
+  },
+  {
+    "id": "ulduar",
+    "text": "うどぅーる",
+    "out": "Media/sound/words/ulduar.mp3"
+  },
+  {
+    "id": "undercity",
+    "text": "ゆうあんじょう",
+    "out": "Media/sound/words/undercity.mp3"
+  },
+  {
+    "id": "ungoro-crater",
+    "text": "あんごろかんざん",
+    "out": "Media/sound/words/ungoro-crater.mp3"
+  },
+  {
+    "id": "upper-blackrock-spire",
+    "text": "くろいしとうじょうそう",
+    "out": "Media/sound/words/upper-blackrock-spire.mp3"
+  },
+  {
+    "id": "utgarde-keep",
+    "text": "うとがーどじょう",
+    "out": "Media/sound/words/utgarde-keep.mp3"
+  },
+  {
+    "id": "utgarde-pinnacle",
+    "text": "うとがーどてってん",
+    "out": "Media/sound/words/utgarde-pinnacle.mp3"
+  },
+  {
+    "id": "vale-of-eternal-blossoms",
+    "text": "きんしゅくだに",
+    "out": "Media/sound/words/vale-of-eternal-blossoms.mp3"
+  },
+  {
+    "id": "valley-of-the-four-winds",
+    "text": "しふうだに",
+    "out": "Media/sound/words/valley-of-the-four-winds.mp3"
+  },
+  {
+    "id": "vault-of-archavon",
+    "text": "あるかふんのたからか",
+    "out": "Media/sound/words/vault-of-archavon.mp3"
+  },
+  {
+    "id": "violet-hold",
+    "text": "しらんえいかんごく",
+    "out": "Media/sound/words/violet-hold.mp3"
+  },
+  {
+    "id": "wailing-caverns",
+    "text": "ごうどうけつ",
+    "out": "Media/sound/words/wailing-caverns.mp3"
+  },
+  {
+    "id": "warsong-gulch",
+    "text": "せんかきょうこく",
+    "out": "Media/sound/words/warsong-gulch.mp3"
+  },
+  {
+    "id": "western-plaguelands",
+    "text": "にしんえきのち",
+    "out": "Media/sound/words/western-plaguelands.mp3"
+  },
+  {
+    "id": "westfall",
+    "text": "せいぶこうや",
+    "out": "Media/sound/words/westfall.mp3"
+  },
+  {
+    "id": "wetlands",
+    "text": "しっち",
+    "out": "Media/sound/words/wetlands.mp3"
+  },
+  {
+    "id": "winterspring",
+    "text": "ふゆいずみたに",
+    "out": "Media/sound/words/winterspring.mp3"
+  },
+  {
+    "id": "zangarmarsh",
+    "text": "ざんがぬま",
+    "out": "Media/sound/words/zangarmarsh.mp3"
+  },
+  {
+    "id": "zulaman",
+    "text": "ずあまん",
+    "out": "Media/sound/words/zulaman.mp3"
+  },
+  {
+    "id": "zuldrak",
+    "text": "ずだく",
+    "out": "Media/sound/words/zuldrak.mp3"
+  },
+  {
+    "id": "zulfarrak",
+    "text": "ずるふらく",
+    "out": "Media/sound/words/zulfarrak.mp3"
+  }
+]

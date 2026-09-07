@@ -1,0 +1,4 @@
+# Agent scratch space; see AGENTS.md red lines
+tmp/
+# Local packaging note; manifest of record is tools/pack.js
+zip.txt
